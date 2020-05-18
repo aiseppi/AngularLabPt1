@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: linear-gradient(to right, #f857a6, #ff5858);
+  }
+  ol {
+    margin: 0;
+    padding: 0;
+  }
+  p {
+    margin: 0;
+  }
+
+  h1, h2, h3 {
+    margin: 0;
+  }
